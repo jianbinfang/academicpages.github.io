@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 2"
+title: "Advanced Compiler Technology"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2018-spring-teaching-1
