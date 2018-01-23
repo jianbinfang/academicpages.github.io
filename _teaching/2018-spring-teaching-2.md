@@ -8,7 +8,7 @@ date: 2018-03-01
 location: "Changsha, China"
 ---
 
-#This is a description of a teaching experience. You can use markdown like any other post.
+We aim to teach graduates the advanced compiler technologies.
 
 Heading 1
 ======
