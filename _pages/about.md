@@ -14,7 +14,6 @@ and a MSc degree in Computer Science from NUDT in 2009.
 In October 2014, he earned his PhD degree in Computer Science from Delft University of Technology (TU Delft), the Netherlands, 
 under the supervision of Prof. Henk Sips and Dr. Ana Lucia Varbanescu. 
 
-#His research interests include parallel programming for many-cores, parallel compilers, performance modeling, and scalable algorithms.
-His general research area is System Software and he is particularly interested in parallel programming for many-cores, parallel compilers, performance modeling, and scalable algorithms.
+Jianbin's general research area is System Software and he is particularly interested in parallel programming for many-cores, parallel compilers, performance modeling, and scalable algorithms.
 
 
