@@ -17,5 +17,5 @@ under the supervision of Prof. Henk Sips and Dr. Ana Lucia Varbanescu.
 Jianbin's general research area is High-performance Computing and System Software.
 And he is particularly interested in parallel programming for (heterogeneous) many-core architectures, parallel compilers and run-time systems, performance modeling, and scalable algorithms.
 
-His PhD thesis is on "[Towards a Systematic Exploration of the Optimization Space for Many-Core Processors](https://doi.org/10.4233/uuid:0b5408a7-933c-4369-8d48-1db5d3269d72)". 
+His PhD thesis is on "Towards a Systematic Exploration of the Optimization Space for Many-Core Processors" ([see here](https://doi.org/10.4233/uuid:0b5408a7-933c-4369-8d48-1db5d3269d72)), where he has investigated the enabling/disabling techniques for platform-specific optimizations with a unified programming model.
 
