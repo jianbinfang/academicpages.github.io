@@ -15,6 +15,6 @@ In October 2014, he earned his PhD degree in Computer Science from Delft Univers
 under the supervision of Prof. Henk Sips and Dr. Ana Lucia Varbanescu. 
 
 Jianbin's general research area is High-performance Computing and System Software.
-And he is particularly interested in parallel programming for (heterogeneous) many-core architectures, parallel compilers, performance modeling, and scalable algorithms.
+And he is particularly interested in parallel programming for (heterogeneous) many-core architectures, parallel compilers and run-time systems, performance modeling, and scalable algorithms.
 
 
